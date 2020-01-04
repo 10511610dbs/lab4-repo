@@ -11,7 +11,7 @@ ADD /myflaskapp /myflaskapp
 
 RUN pip3 install --upgrade pip
 
-RUN pip3 iinstall -r myflsakapp/requirements.txt
+RUN pip3 iinstall -r myflaskapp/requirements.txt
 
 RUN pip3 install Flask
 
