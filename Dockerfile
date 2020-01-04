@@ -1,7 +1,7 @@
 # Set the base image to Ubuntu
 FROM ubuntu:latest
 
-MAINTAINER TMacCormaic
+MAINTAINER TMacCormaic 10511610@mydbs.ie
 
 RUN apt-get update
 
